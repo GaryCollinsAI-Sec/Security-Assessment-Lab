@@ -1,1 +1,2 @@
-# Controlled-Pentesting-Lab-Exploiting-Hardening-Legacy-Systems
+# Controlled Pentesting Lab: Exploiting & Hardening Legacy Systems
+
