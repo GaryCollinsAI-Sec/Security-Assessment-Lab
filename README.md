@@ -41,7 +41,7 @@
 
 
 <h3>Phase 1: Reconnaissance</h3>
-<img width="629" height="427" alt="Edit netdiscover" src="https://github.com/user-attachments/assets/dfeaf01a-7515-4fa0-800f-69695f87796e" />
+
 
 <p>
 This image displays the results of an active ARP (Address Resolution Protocol) scan using Netdiscover on the Kali Linux attacker node.
@@ -51,6 +51,14 @@ Host Discovery: The tool captured ARP Request/Reply packets to identify active h
 Target Identification: By analyzing the MAC Vendor (PCS Systemtechnik GmbH), I was able to identify the virtualized interfaces belonging to the Metasploitable 2 and pfSense instances within the VirtualBox environment.
 
 Outcome: This step provided the target IP addresses necessary to begin the scanning and enumeration phase with Nmap.</p>
+
+
+
+
+
+<img width="629" height="427" alt="Edit netdiscover" src="https://github.com/user-attachments/assets/dfeaf01a-7515-4fa0-800f-69695f87796e" />
+
+
 
 <h3>Phase 2: Vulnerability Validation</h3>
 
