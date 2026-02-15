@@ -1,4 +1,4 @@
-<h1>Security Assessment Lab: Legacy System Exploitation & Remediation</h1>
+<h1>Security Assessment: Legacy System Exploitation & Remediation</h1>
 
 <h2>Objective</h2>
 <p>
