@@ -23,12 +23,10 @@ Developed a secure, sandboxed environment to simulate the full attack lifecycle 
 <ul>
   <li>Kali Linux (attacker node)</li>
   <li>Metasploitable 2 (vulnerable target)</li>
-  <li>pfSense (firewall and network segmentation)</li>
-  <li>VirtualBox / VMware (hypervisor environment)</li>
-  <li>Metasploit Framework (exploitation and post-exploitation)</li>
-  <li>Various Linux/BSD/Windows tools for host-level hardening and testing</li>
-  <li>Netcat(nc): The "Swiss Army Knife" of TCP/IP, used for raw manual connections and shell listeners.</li>
-  <li>Netdiscover: Active/passive Address Resolution Protocol (ARP) reconnaissance for host discovery.</li>
+  <li>pfSense</li>
+  <li>Oracle VirtualBox</li>
+  <li>Netcat(nc)</li>
+  <li>Netdiscover</li>
 </ul>
 
 <hr>
