@@ -11,7 +11,7 @@ Developed a secure, sandboxed environment to simulate the full attack lifecycle 
 <ul>
   <li>Network Security: VLAN segmentation, pfSense SPI firewall administration, DMZ architecture design</li>
   <li>Vulnerability Management: Identify classic legacy vulnerabilities and implement compensating controls (virtual patching)</li>
-  <li>Ethical Hacking Lifecycle: Conduct methodical 5-phase assessment using Kali Linux and Metasploit</li>
+  <li>Ethical Hacking Lifecycle: Conduct methodical 5-phase assessment using Kali Linux and Metasploitable 2</li>
   <li>Defensive Hardening: Reduce attack surface via service minimization and Principle of Least Privilege enforcement</li>
   <li>Security Documentation: Translate exploit validation into technical reports and executive summaries</li>
   <li>Systems Engineering: Hypervisor management and cross-platform troubleshooting (Linux and BSD)</li>
