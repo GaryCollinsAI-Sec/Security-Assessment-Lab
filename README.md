@@ -65,7 +65,8 @@ Technical Execution: Used Netcat to manually interact with the service on port 2
 Impact: Validated unauthenticated Root Access, allowing for full system compromise.
 
 
-<img width="283" height="113" alt="Screenshot 2026-02-15 122151" src="https://github.com/user-attachments/assets/03bb6ec2-c024-4f65-a059-a2d8cffb0dd7" />
+
+<img width="283" height="113" alt="netcat edit" src="https://github.com/user-attachments/assets/fe3b8b6e-806f-4d6a-bf49-21e0d6e51e45" />
 
 
 
@@ -82,7 +83,8 @@ Full System Control (The "Kill Chain" Proof): As the final validation of unauthe
 
 Impact: Successfully forcing a system-wide reboot from a remote shell proves that an attacker has the power to cause a Permanent Denial of Service (PDoS) or clear volatile system logs (/var/log) to erase their digital footprint before the system comes back online.
 
-<img width="561" height="128" alt="Screenshot 2026-02-15 121721" src="https://github.com/user-attachments/assets/92f7660b-fde8-4dba-a2cb-f2edb8447505" />
+
+<img width="561" height="128" alt="netcat2 edit" src="https://github.com/user-attachments/assets/e81c3784-a438-45db-8a25-a00b02a15204" />
 
 
 
