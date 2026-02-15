@@ -2,11 +2,7 @@
 
 <h2>Objective</h2>
 <p>
-    Developed a sandboxed environment to simulate the full attack lifecycle against legacy systems. 
-    This project demonstrates proficiency in <b>reconnaissance, vulnerability validation, and risk mitigation</b>. 
-    By targeting Metasploitable 2 from a Kali Linux node, I analyzed service-level vulnerabilities 
-    and engineered a <b>Remediation Roadmap</b> involving host-level hardening and network-level 
-    compensating controls via a pfSense firewall.
+Developed a secure, sandboxed environment to simulate the full attack lifecycle against legacy systems. To ensure safe testing, I deployed a pfSense virtual machine to isolate the Metasploitable 2 instance from the host network, creating a controlled DMZ for the assessment. This project demonstrates proficiency in reconnaissance, vulnerability validation, and risk mitigation. By targeting Metasploitable 2 from a Kali Linux node, I analyzed service-level vulnerabilities and engineered a Remediation Roadmap involving host-level hardening and network-level compensating controls via the pfSense firewall.
 </p>
 
 <hr>
